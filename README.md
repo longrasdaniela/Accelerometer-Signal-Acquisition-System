@@ -13,12 +13,16 @@ This project is a complete embedded system designed for the real-time acquisitio
 - **Communication Protocol:** RS232 (UART) via an FTDI/Serial-to-USB converter </b> 
 - **Key Hardware:** MMA7361L Analog Triaxial Accelerometer (NXP/Freescale) </b> 
 
-<h2>Program walk-through:</h2>
+<h2>Project Diagram and Hardware:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+System Diagram: <br/>
+<img src="https://i.imgur.com/ePNrI7M.png" height="80%" width="80%" alt="System Diagram"/>
 <br />
 <br />
 
-
+<p align="center">
+Hardware Configuration and Physical Connections: <br/>
+<img src="https://i.imgur.com/EcamD52.jpeg" height="80%" width="80%" alt="Hardware Configuration and Physical Connections"/>
+<br />
+<br />
